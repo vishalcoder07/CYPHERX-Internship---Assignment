@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+![image](https://github.com/vishalcoder07/COLLEGE-FACULTY-BILLING-SYSTEM/assets/84537057/79bee2fe-4d71-487c-aaa2-398d915c12dd)
+![image](https://github.com/vishalcoder07/COLLEGE-FACULTY-BILLING-SYSTEM/assets/84537057/87e485c7-c7f1-4d63-8dc3-0405682a42fd)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
